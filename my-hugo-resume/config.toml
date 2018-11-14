@@ -1,0 +1,31 @@
+baseURL = "https://www.sqwerl.life/"
+languageCode = "en-us"
+title = "Anthony Pileggi"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Anthony"
+    lastName = "Pileggi"
+    address = "Williamsburg, Virgina"
+    phone = "2157386383"
+    contactNote = "Data Scientist"
+    profileImage = "img/me.jpg"
+    email = "apileggi20@gmail.com"
+    description = "Hi!  I'm a Data Scientist.  R is my preferred programming language."
+    favicon = "img/favicon.png"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/anthonypileggi"
+
+[params.google.analytics]
+    trackerID = "UA-114744558-2"

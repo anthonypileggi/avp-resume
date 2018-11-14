@@ -1,0 +1,56 @@
+[
+  {
+    "role": "Data Scientist",
+    "company": "iFixit",
+    "summary": "A/B testing: design, monitoring, stopping rules, and analysis; Web traffic reporting: synthesize data, identify trends, and project traffic data; e-Commerce: forecast sell rates, recommend prices for profit optimization, improve metrics utilized for operational decisions; Dashboards: maintain and improve Chartio/Shiny dashboards, create customized dashboards to address recurring needs; Data procurement: identify and obtain data via APIs or webscraping to inform operational decisions; General consultant: identify and compile data, analyze data, present results for various company units",
+    "range": "2015 - 2018"
+  },
+  {
+    "role": "Statistical Consultant",
+    "company": "Biostatistics Consulting Center, Emory University",
+    "summary": "Collaborate with various investigators regarding statistical design and analysis.",
+    "range": "2008 - 2015"
+  },
+  {
+    "role": "Dean's Teaching Fellow",
+    "company": "Laney Graduate School, Emory University",
+    "summary": "Design and teach Statistical Methods II to 77 graduate students.; Supervise four teaching assistants in the organization and instruction of a lab component.",
+    "range": "2013 - 2014"
+  },
+  {
+    "role": "Instructor",
+    "company": "Department of Biostatistics and Bioinformatics, Emory University",
+    "summary": "Statistics Methods I/II Lab",
+    "range": "2010 - 2012"
+  },
+  {
+    "role": "Teaching Assistant",
+    "company": "Department of Biostatistics and Bioinformatics, Emory University",
+    "summary": "Statistical Methods I/II, Probability Theory I, Statistical Inference I, Fundamentals of Bioinformatics",
+    "range": "2009 - 2012"
+  },
+  {
+    "role": "Collaborator",
+    "company": "Center for Biomedical Imaging Statistics (CBIS), Emory University",
+    "summary": "Provide assistance and feedback for group projects, papers, and grant proposals.; Preprocess and analyze neuroimaging data acquired from human subjects",
+    "range": "2009 - 2012"
+  },
+  {
+    "role": "Tutor",
+    "company": "Rollins School of Public Health, Emory University",
+    "summary": "Provide instruction, motivation, and clarification for students struggling with math, statistics, or programming concepts.",
+    "range": "2008 - 2015"
+  },
+  {
+    "role": "Research Assistant",
+    "company": "Department of Statistics, Carnegie Mellon University",
+    "summary": "Mentored by Dr. Rob Kass in the analysis of extracellular neuronal recordings derived from implanted microelectrode arrays in living macaque monkeys.",
+    "range": "2007 - 2008"
+  },
+  {
+    "role": "Teaching Assistant",
+    "company": "Department of Statistics, Carnegie Mellon University",
+    "summary": "NA",
+    "range": "2006 - 2007"
+  }
+]

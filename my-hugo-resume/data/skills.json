@@ -1,0 +1,73 @@
+[
+  {
+    "grouping": "Software",
+    "skills": [
+      {
+        "name": "R",
+        "link": "https://cran.r-project.org/"
+      },
+      {
+        "name": "Shiny",
+        "link": "https://shiny.rstudio.com/"
+      },
+      {
+        "name": "Google Analytics"
+      },
+      {
+        "name": "Chartio"
+      },
+      {
+        "name": "Matlab"
+      },
+      {
+        "name": "SAS"
+      },
+      {
+        "name": "LaTeX"
+      },
+      {
+        "name": "HTML"
+      }
+    ]
+  },
+  {
+    "grouping": "Machine Learning",
+    "skills": [
+      {
+        "name": "classification"
+      },
+      {
+        "name": "regression"
+      },
+      {
+        "name": "clustering"
+      },
+      {
+        "name": "networks"
+      },
+      {
+        "name": "text mining"
+      }
+    ]
+  },
+  {
+    "grouping": "Statistical Methods",
+    "skills": [
+      {
+        "name": "hypothesis testing"
+      },
+      {
+        "name": "regression models"
+      },
+      {
+        "name": "forecasting"
+      },
+      {
+        "name": "dimensionality reduction"
+      },
+      {
+        "name": "experimental design"
+      }
+    ]
+  }
+]
