@@ -1,4 +1,4 @@
-baseURL = "https://gallant-nobel-405a67.netlify.com/"
+baseURL = "https://www.sqwerl.life/"
 languageCode = "en-us"
 title = "Anthony Pileggi"
 theme = "hugo-resume"
@@ -22,6 +22,7 @@ theme = "hugo-resume"
     showEducation = true
 
     showQr = false
+
 
 [[params.handles]]
     name = "GitHub"
